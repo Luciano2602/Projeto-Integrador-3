@@ -15,6 +15,7 @@ namespace FrmLogin
 
             FrmClienteAletarCadastrar frmClienteAletarCadastrar = new FrmClienteAletarCadastrar();
             frmClienteAletarCadastrar.Show();
+            Console.WriteLine("           ");
         }
 
         public static void ClienteConsultarExcluir()
