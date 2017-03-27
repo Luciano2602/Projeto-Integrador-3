@@ -16,7 +16,7 @@ namespace FrmLogin
 
             FrmClienteAletarCadastrar frmClienteAletarCadastrar = new FrmClienteAletarCadastrar();
             frmClienteAletarCadastrar.Show();
-            Console.WriteLine("Fazendo Teste no gitHub com repositorio...........");
+            Console.WriteLine("Fazendo Teste no gitHub com repositorio  Console.WriteLine ");
         }
 
         public static void ClienteConsultarExcluir()
