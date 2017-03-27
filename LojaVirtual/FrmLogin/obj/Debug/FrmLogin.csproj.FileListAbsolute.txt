@@ -74,3 +74,9 @@ C:\Users\Felipe\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\obj\Debug
 C:\Users\Felipe\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.FrmUsuarioAlterarCadastrar.resources
 C:\Users\Felipe\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
 C:\Users\Felipe\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.Cache
+C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\Felipe\Source\Repos\Projeto-Integrador-III\LojaVirtual\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Felipe\Source\Repos\Projeto-Integrador-III\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Felipe\Source\Repos\Projeto-Integrador-III\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.pdb
