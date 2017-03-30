@@ -80,3 +80,6 @@ C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-3\LojaVirtual\FrmLogin
 C:\Users\Felipe\Source\Repos\Projeto-Integrador-III\LojaVirtual\FrmLogin\bin\Debug\FrmLogin.exe.config
 C:\Users\Felipe\Source\Repos\Projeto-Integrador-III\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.exe
 C:\Users\Felipe\Source\Repos\Projeto-Integrador-III\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-33\LojaVirtual\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-33\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Ednalva Oliveira\Source\Repos\Projeto-Integrador-33\LojaVirtual\FrmLogin\obj\Debug\FrmLogin.pdb

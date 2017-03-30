@@ -12,7 +12,7 @@ namespace FrmLogin
         //chamando as telas Cliente
         public static void ClienteAletarCadastrar()
         {
-            Console.WriteLine("Consegui usar o git");
+            Console.WriteLine("Mudou.... E no seu?");
 
             FrmClienteAletarCadastrar frmClienteAletarCadastrar = new FrmClienteAletarCadastrar();
             frmClienteAletarCadastrar.Show();
